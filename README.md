@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kaironn2
+- 👋 Hi, I’m Kaironn
 - 🌱 I’m currently learning Python 🐍
-- 📫 How to reach me twitter.com/Kaironn2
+- 📫 How to reach me: twitter.com/Kaironn2
 
 <!---
 Kaironn2/Kaironn2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
