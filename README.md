@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kaironn2
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python 🐍
 - 📫 How to reach me twitter.com/Kaironn2
 
 <!---
