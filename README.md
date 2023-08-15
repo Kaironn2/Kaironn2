@@ -1,4 +1,4 @@
-## Oi, eu sou o Kaironn, dev Python. 🐍
+## Oi, eu sou o Kaironn, dev Python 🐍 e amigo do Braia Binga M.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaironn2)](https://github.com/anuraghazra/github-readme-stats)
 
