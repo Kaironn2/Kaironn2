@@ -9,7 +9,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaironn2&layout=compact&hide_border=true&title_color=00ff00&text_color=d9e8df&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
+<div align="center">
+<h1>My Socials</h1>
 <a href="https://instagram.com/kaironn2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:kaironn2021@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jonathas-oliveira-11850711b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
