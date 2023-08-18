@@ -17,13 +17,22 @@
 
   
 <div align="center">
-<div style="display: inline_block">
-  <h1>My Skills</h1>
-  <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div><br/>
+  <div style="display: inline_block">
+    <h1>My Skills</h1>
+    <div style="display: inline-block; width: 50%;">
+      <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=django&logoColor=white" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/Selenium-2c2c2c?style=for-the-badge&logo=selenium&logoColor=white" />
+    </div>
+    <div style="display: inline-block; width: 50%;">
+      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    </div>
+  </div>
+</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=120&section=footer"/>
