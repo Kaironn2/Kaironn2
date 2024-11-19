@@ -22,14 +22,9 @@
     <h1>My Skills</h1>
     <div style="display: inline-block; width: 50%;">
       <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-      <img align="center" alt="py" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logo=pandas&logoColor=blue" />
-
-    </div>
-    <div style="display: inline-block; width: 50%;">
-      <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-      <img align="center" alt="MYSql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     </div>
   </div>
 </div>
