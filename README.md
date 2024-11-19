@@ -22,9 +22,8 @@
     <h1>My Skills</h1>
     <div style="display: inline-block; width: 50%;">
       <img align="center" alt="py" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-      <img align="center" alt="py" src="https://img.shields.io/badge/Django-103E2E?style=for-the-badge&logo=django&logoColor=white" />
-      <img align="center" alt="py" src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=black" />
-      <img align="center" alt="py" src="https://img.shields.io/badge/Selenium-2c2c2c?style=for-the-badge&logo=selenium&logoColor=white" />
+      <img align="center" alt="py" src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas&logo=pandas&logoColor=blue" />
+
     </div>
     <div style="display: inline-block; width: 50%;">
       <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
