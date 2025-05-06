@@ -19,8 +19,37 @@
 <br>
 
 
-# 💫 About Me:
-## 👋 Hi! My name is Jonathas, aka Kaironn<br><br>🎮 I'm a lifelong technology and games enthusiast. My passion for tech constantly pushes me to challenge myself and learn new things.<br><br>🤖 I'm also automation-obsessed — I love building efficient systems to streamline repetitive tasks and workflows.<br><br>## 💼 What I Do<br><br>🚚 I currently work in the logistics sector, developing efficient RPA solutions using **Python (Selenium, PyAutoGUI)** to automate processes, perform **web scraping**, and track orders.<br><br>📊 I use **Pandas** for data analysis, **Google Sheets API** and **Apps Script** for updating and scheduling tasks, and **SMTP** for sending customized transport notification emails using plain text and HTML templates.<br><br>📈 I also build user-friendly tools with **Excel** and **Python** to simplify admin routines and enable data-driven decisions across the team.<br><br>## 🧪 Personal Project<br><br>🧙‍♂️ I'm deeply into games like **Skyrim** and **Baldur's Gate 3**, and I contribute to the community by translating mods into Brazilian Portuguese.<br><br>🛠️ Currently, I'm building a **localization translator** that:<br>- Parses `.xml` localization files<br>- Matches known translations or fetches new ones using **RapidFuzz** for fuzzy matching and **OpenAI API**<br>- Reconstructs the file with proper folder structure and metadata<br><br>🌐 I'm planning to turn this logic into a full **web app** using **Django** and possibly **Vue.js** for the frontend. My tool's translations have already received great feedback on Mod.io and NexusMods.<br><br>## 🧠 Skills<br><br>🐍 Intermediate: Python, RPAs, Pandas, Django  <br>📊 Strong: Excel, Google Sheets API, automation  <br>🌐 Beginner: FastAPI, PostgreSQL, MySQL, Docker, Git, GitHub, JavaScript, HTML, CSS  <br>🎯 Goal: Improve frontend skills to enhance my personal translation project.
+# 💫 About Me
+
+👋 Hi! My name is Jonathas, aka Kaironn
+🎮 I'm a lifelong technology and games enthusiast. My passion for tech constantly pushes me to challenge myself and learn new things.  
+🤖 I'm also automation-obsessed — I love building efficient systems to streamline repetitive tasks and workflows.
+
+## 💼 What I Do
+
+🚚 I currently work in the logistics sector, developing efficient RPA solutions using Python to automate processes, perform web scraping, and track orders.  
+📊 I use Pandas for data analysis, Google Sheets API and Apps Script for updating and scheduling tasks, and SMTP for sending customized transport notification emails using plain text and HTML templates.  
+📈 I also build user-friendly tools with Excel and Python to simplify admin routines and enable data-driven decisions across the team.
+
+## 🧠 Skills
+
+- 📊 Strong: Python, Excel, Google Sheets API
+- 🐍 Intermediate: RPAs, Pandas, Django, FastAPI, Git, GitHub, SQLAlchemy, SQLModel
+- 🌐 Beginner: PostgreSQL, MySQL, Docker, JavaScript, HTML, CSS
+- 🎯 Goal: Improve frontend skills and learn frameworks like Vue and React
+
+## 🧪 Personal Project
+
+🧙‍♂️ I'm deeply into games like *Skyrim* and *Baldur's Gate 3*, and I contribute to the community by translating mods into Brazilian Portuguese.  
+🛠️ Currently, I'm building a localization translator that:
+- Parses `.xml` localization files  
+- Matches known translations or fetches new ones using RapidFuzz for fuzzy matching and OpenAI API  
+- Reconstructs the file with proper folder structure and metadata  
+
+🌐 I'm planning to turn this logic into a full web app using Django and possibly Vue.js for the frontend.  
+My tool's translations have already received great feedback on Mod.io and NexusMods.
+
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaironn2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaironn2)
