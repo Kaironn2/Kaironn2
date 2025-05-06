@@ -33,10 +33,10 @@
 
 ## 🧠 Skills
 
-- 📊 Strong: Python, Excel, Google Sheets API
-- 🐍 Intermediate: RPAs, Pandas, Django, FastAPI, Git, GitHub, SQLAlchemy, SQLModel
-- 🌐 Beginner: PostgreSQL, MySQL, Docker, JavaScript, HTML, CSS
-- 🎯 Goal: Improve frontend skills and learn frameworks like Vue and React
+- 📊 Strong: Python, Excel, Google Spreadsheets
+- 🐍 Intermediate: RPAs, Pandas, Django, FastAPI, Git, GitHub, SQLAlchemy, SQLModel, Google Spreadhsets API
+- 🌐 Beginner: Langchain, RAG, PostgreSQL, MySQL, Docker, JavaScript, AWS, Google Cloude, HTML, CSS
+- 🎯 Goal: Improve AI knowledge and frontend skills (Learn frameworks like Vue or React)
 
 ## 🧪 Personal Project
 
