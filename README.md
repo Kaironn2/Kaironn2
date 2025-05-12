@@ -39,6 +39,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pydantic](https://img.shields.io/badge/Pydantic-2A6DB0?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2F2F2F?style=for-the-badge&logo=python&logoColor=white)
+![SQLModel](https://img.shields.io/badge/SQLModel-8E2E84?style=for-the-badge&logo=python&logoColor=white)
 
 ## Frontend & Desktop  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
