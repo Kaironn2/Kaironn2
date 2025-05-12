@@ -1,46 +1,14 @@
-# 💻 Tech Stack
+# 💫 About Me
 
-## Backend
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/django%20rest%20framework-%23EE4C2C.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Pydantic](https://img.shields.io/badge/Pydantic-2A6DB0?style=for-the-badge)
+👋 Hi! My name is Jonathas, aka Kaironn
+🎮 I'm a lifelong technology and games enthusiast. My passion for tech constantly pushes me to challenge myself and learn new things.  
+🤖 I'm also automation-obsessed. I love building efficient systems to streamline repetitive tasks and workflows.
 
-## LLM & AI
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-%234B0082.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-%230A6EBD.svg?style=for-the-badge&logo=facebook&logoColor=white)
+## 💼 What I Do
 
-## Frontend
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-## Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-## Data & Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-
-## Web Automation & Scraping
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-
-## Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-## Package & Dev Tools
-![Poetry](https://img.shields.io/badge/Poetry-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
-![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
-![Taskipy](https://img.shields.io/badge/taskipy-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
-
-## Version Control
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+🚚 I currently work in the logistics sector, developing efficient RPA solutions using Python to automate processes, perform web scraping, and track orders.  
+📊 I use Pandas for data analysis, Google Sheets API and Apps Script for updating and scheduling tasks, and SMTP for sending customized transport notification emails using plain text and HTML templates.  
+📈 I also build user-friendly tools with Excel and Python to simplify admin routines and enable data-driven decisions across the team.
 
 
 # 📊 GitHub Stats:
@@ -58,27 +26,55 @@
 </div>
 
 
+# 💻 Tech Stack
 
-<br>
+## Backend & APIs  
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/django%20rest%20framework-%23EE4C2C.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pydantic](https://img.shields.io/badge/Pydantic-2A6DB0?style=for-the-badge)
 
+## Frontend & Desktop  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![PySide6](https://img.shields.io/badge/PySide6-%23222222.svg?style=for-the-badge&logo=qt&logoColor=white)
 
-# 💫 About Me
+## Web Scraping & Automation  
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![PyAutoGUI](https://img.shields.io/badge/pyautogui-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white)
 
-👋 Hi! My name is Jonathas, aka Kaironn
-🎮 I'm a lifelong technology and games enthusiast. My passion for tech constantly pushes me to challenge myself and learn new things.  
-🤖 I'm also automation-obsessed — I love building efficient systems to streamline repetitive tasks and workflows.
+## AI, LLMs & Data Similarity  
+![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-%234B0082.svg?style=for-the-badge&logo=OpenAI&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-%230A6EBD.svg?style=for-the-badge&logo=facebook&logoColor=white)
 
-## 💼 What I Do
+## Data Analysis & Databases
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-🚚 I currently work in the logistics sector, developing efficient RPA solutions using Python to automate processes, perform web scraping, and track orders.  
-📊 I use Pandas for data analysis, Google Sheets API and Apps Script for updating and scheduling tasks, and SMTP for sending customized transport notification emails using plain text and HTML templates.  
-📈 I also build user-friendly tools with Excel and Python to simplify admin routines and enable data-driven decisions across the team.
+## DevOps, Tools & Testing  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Poetry](https://img.shields.io/badge/Poetry-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
+![Taskipy](https://img.shields.io/badge/taskipy-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+
+## Version Control  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 🧠 Skills
 
 - 📊 Strong: Python, Excel, Google Spreadsheets
-- 🐍 Intermediate: RPAs, Pandas, Django, FastAPI, Git, GitHub, SQLAlchemy, SQLModel, Google Spreadhsets API
-- 🌐 Beginner: Langchain, RAG, PostgreSQL, MySQL, Docker, JavaScript, AWS, Google Cloude, HTML, CSS
+- 🐍 Intermediate: RPAs, Pandas, Django, FastAPI, Git, GitHub, SQLAlchemy, SQLModel, Google Spreadhsets API, Selenium, PyAutoGUI, BeautifulSoup
+- 🌐 Beginner: Langchain, RAG, FAISS, PostgreSQL, MySQL, Docker, JavaScript, AWS, Google Cloude, HTML, CSS
 - 🎯 Goal: Improve AI knowledge and frontend skills (Learn frameworks like Vue or React)
 
 ## 🧪 Personal Project
