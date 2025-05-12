@@ -70,6 +70,7 @@
 ![Poetry](https://img.shields.io/badge/Poetry-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
 ![Taskipy](https://img.shields.io/badge/taskipy-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Version Control  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
