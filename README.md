@@ -10,6 +10,10 @@
 📊 I use Pandas for data analysis, Google Sheets API and Apps Script for updating and scheduling tasks, and SMTP for sending customized transport notification emails using plain text and HTML templates.  
 📈 I also build user-friendly tools with Excel and Python to simplify admin routines and enable data-driven decisions across the team.
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaironn2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaironn2)
+
 
 # 📊 GitHub Stats:
 <div>
@@ -87,10 +91,3 @@
 
 🌐 I'm planning to turn this logic into a full web app using Django and possibly Vue.js for the frontend.  
 My tool's translations have already received great feedback on Mod.io and NexusMods.
-
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaironn2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaironn2)
-
-
