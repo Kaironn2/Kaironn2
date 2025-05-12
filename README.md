@@ -33,10 +33,14 @@
 ## Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-## Tools
+## Package & Dev Tools
+![Poetry](https://img.shields.io/badge/Poetry-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white)
+![Taskipy](https://img.shields.io/badge/taskipy-%23323330.svg?style=for-the-badge&logo=python&logoColor=white)
+
+## Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
 
 
 # 📊 GitHub Stats:
