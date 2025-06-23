@@ -42,16 +42,18 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2F2F2F?style=for-the-badge&logo=python&logoColor=white)
 ![SQLModel](https://img.shields.io/badge/SQLModel-8E2E84?style=for-the-badge&logo=python&logoColor=white)
 
-### Frontend & Desktop  
+### Frontend & Desktop
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-%23222222.svg?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Web Scraping & Automation  
 ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/pyautogui-%2300BFFF.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### AI, LLMs & Data Similarity  
