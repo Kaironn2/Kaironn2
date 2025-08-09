@@ -10,10 +10,6 @@
 
 🎮 Lifelong tech and gaming enthusiast. I'm always learning, building, and experimenting. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kaironn2) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaironn2)
-
 
 # 📊 GitHub Stats:
 <div>
